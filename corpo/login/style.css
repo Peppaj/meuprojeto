@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+.main-login {
+    width: 100vw;
+    height: 100vh;
+    background: #7758be;
+    display: flex 
+  
+ }
+ div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    color: aliceblue;
+  }
+
+.lift-login{
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+   flex-direction: column;
+}
+.right-login{
+    width: 50vw;
+    height: 100vh;
+}
+ .card-login{ 
+    width:60%
+    
+ }
+
